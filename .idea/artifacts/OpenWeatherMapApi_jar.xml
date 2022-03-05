@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="OpenWeatherMapApi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OpenWeatherMapApi_jar</output-path>
+    <root id="archive" name="OpenWeatherMapApi.jar">
+      <element id="module-output" name="OpenWeatherMapApi" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20190722/json-20190722.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
